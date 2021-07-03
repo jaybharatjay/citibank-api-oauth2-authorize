@@ -5,3 +5,4 @@ Documentation for  get /authCode/oauth2/authorize =  https://sandbox.developerhu
 API keys= https://sandbox.developerhub.citi.com/application
 
 Simply plug and play code just you need to change [client_id]
+skype=php.india.php
